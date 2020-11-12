@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity_Send_Text</string>
+    <string name="TV1">請輸入文字 :</string>
+    <string name="TV2_A">B頁面輸入文字 :</string>
+    <string name="BTN_A">切換到B畫面</string>
+    <string name="TV2_B">A頁面輸入文字 :</string>
+    <string name="BTN_B">切換到A畫面</string>
+</resources>
