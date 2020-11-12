@@ -1,0 +1,2 @@
+# Android_Studio_7_Activity_Send_Text
+ Activity傳數值
